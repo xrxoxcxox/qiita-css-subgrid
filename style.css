@@ -21,8 +21,8 @@ body {
   display: grid;
   flex-grow: 1;
   gap: 10px;
-  grid-template-columns: 1fr 2fr 3fr 4fr 5fr;
-  grid-template-rows: 1fr 2fr 3fr 4fr 5fr 6fr;
+  grid-template-columns: 3fr 3fr 2fr 2fr 1fr;
+  grid-template-rows: 1fr 3fr 2fr 2fr 1fr 1fr;
   height: 100%;
   padding: 20px;
 }
